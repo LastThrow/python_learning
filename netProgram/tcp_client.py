@@ -9,12 +9,12 @@ def main():
     # 发送，接收数据
     while True:
         send_msg = input("输入发送的信息：")
-        if send_msg == "exit":
+        if send_msg == "exit" or send_msg == "1":
             break
         tcp_socket.send(send_msg.encode("utf-8"))
         # 关闭套接字
-        recv_data = tcp_socket.recv(1024).decode("utf-8")
-        print("服务器发来信息：", recv_data)
+        # recv_data = tcp_socket.recv(1024).decode("utf-8")
+        # print("服务器发来信息：", recv_data)
     tcp_socket.close()
 
 

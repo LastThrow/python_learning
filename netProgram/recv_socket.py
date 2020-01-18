@@ -16,6 +16,7 @@ def main():
     local_addr = ("", 8080)  # 只能绑定自己的ip，空字符串表示本地ip
     udp_socket.bind(local_addr)  # 监听本地主机的8080端口
     # 接收数据
+
     while True:
         recv_data = udp_socket.recvfrom(1024)
         recv_msg = recv_data[0]  # 信息

@@ -1,0 +1,22 @@
+$360Section
+$Recycle.Bin
+2
+Documents and Settings
+hiberfil.sys
+Intel
+kingsoft
+KRECYCLE
+MPlugin.dll
+pagefile.sys
+PerfLogs
+ProgramData
+Program Files
+Program Files (x86)
+Recovery
+SPlugin.dll
+swapfile.sys
+System Volume Information
+temp
+UserGuidePDF
+Users
+Windows

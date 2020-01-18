@@ -1,0 +1,29 @@
+$RECYCLE.BIN
+12306
+apache-tomcat-9.0.12
+BaiduNetdiskDownload
+chrome download files
+codeblocks安装文件
+Eclipse-Installer
+Git
+LINGO12(installed)
+MATLAB(can not be deleted)
+MSOCache
+nginx-1.8.1
+pagefile.sys
+PyCharm
+python
+qqpcmgr_docpro
+SSMS(installed)
+System Volume Information
+TranslucentTB.2017.3
+VmWare
+VPN
+VS Code(installed)
+WinRAR(installed)
+全家福
+壁纸
+百度网盘安装文件
+网盘
+网盘高速下载器
+迅雷下载
