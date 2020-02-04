@@ -3,6 +3,8 @@ from collections import Iterable
 生成器是一种特殊的迭代器
 有使得函数暂停执行并返回值的功能
 """
+
+
 def create_num(all):
     a, b = 0, 1
     cur = 0

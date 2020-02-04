@@ -17,7 +17,7 @@ monkey.patch_all()  # 用于将耗时函数替换成gevent内的函数
 def download_pic(img_name, img_url):
     req = urllib.request.urlopen(img_url)
     img_content = req.read()
-    with open(img_name , 'wb') as f:
+    with open(img_name, 'wb') as f:
         f.write(img_content)
 
 

@@ -51,8 +51,9 @@ def main():
     tcp_server_socket.setblocking(False)  # 设置为非堵塞
     # 创建一个epoll对象
     epl = select.epoll()  # http服务器和内核直接共用的空间
-    # 将监听套接字对应的文件描述符fd
+
     fd_event_dict = dict()
+    # 将监听套接字对应的文件描述符fd
     epl.register(tcp_server_socket.fileno(), select.EPOLLIN)  # 套接字有输入就通知此监听套接字
     fd_event_dict[tcp_server_socket.fileno()] = tcp_server_socket
     while True:

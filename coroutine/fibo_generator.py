@@ -2,6 +2,8 @@ from collections import Iterable
 """
 生成器是一种特殊的迭代器
 """
+
+
 def create_num(all):
     a, b = 0, 1
     cur = 0

@@ -5,6 +5,8 @@ from collections import Iterable
 __iter__(可迭代对象)
 __next__(迭代器)
 """
+
+
 class Fibonacci(object):
     def __init__(self, num):
         self.num = num
@@ -32,7 +34,7 @@ def main():
     for fibo in fibos:  # 真正调用时再将需要的数据一个一个返回
         print(fibo, end=" ")
     print()
-    print(list(fibos))
+    print(list(fibos))  # 也可将可迭代对象转换成list或tuple
     print(tuple(fibos))
 
 

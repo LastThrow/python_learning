@@ -4,6 +4,7 @@ from collections import Iterable
 节省存放数据的空间
 """
 
+
 class Classmate(object):
     def __init__(self):
         self.names = list()
