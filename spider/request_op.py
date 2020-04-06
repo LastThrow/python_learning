@@ -2,7 +2,7 @@ import requests
 
 
 def main():
-    res = requests.get('http://www.baidu.com')
+    res = requests.get('http://58921.com/alltime')
     # print(res.text)  # reuqest会根据自己猜测的解码方式进行解码，所以大部分时候我们看到的是乱码
     # print(res.content.decode('utf-8'))  # content是直接从网上抓取的数据，没有任何的解码，是byte类型，
     # 查看访问的完整url
@@ -17,8 +17,8 @@ def main():
     #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
     # }
     # res = requests.get('http://www.baidu.com/s', params=params)
-    with open('china.html', 'w', encoding='utf-8') as f:
-        f.write(res.content.decode('utf-8'))
+    with open('movie.html', 'wb') as f:
+        f.write(res.content)
     print(res.url)  # 底层自动拼接url
 
     # 下面使用代理

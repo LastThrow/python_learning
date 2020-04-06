@@ -1,5 +1,6 @@
 import os
 import multiprocessing
+import time
 
 
 def copy_file(file_name, old_folder_name, new_folder_name, queue):
@@ -32,6 +33,7 @@ def main():
         copied_file += 1
         # 完成打印不换行，且回到本行行首
         print("\r完成进度为：%.2f %%" % (copied_file / files_num * 100), end="")
+        time.sleep(0.01)
         if copied_file == files_num:
             break
     pool.join()

@@ -2,35 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8ca805-c96e-44c4-be45-d52e312fec33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GIL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/my_connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/my_query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_web_frame/dymamic_http_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_web_frame/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_web_frame/mini_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_web_frame/multiprocess_http_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/auto_set_cookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/china.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/cookie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/crawl_lagou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/my_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/req_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/req_session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/request_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/save_load_cookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/set_cookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/set_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/unsplash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleTask/test/cookie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleTask/thread_share_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleTask/thread_share_src.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/XPath.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/crawl_douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/crawl_multi_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/crawl_multicate_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/douban2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/doubanMultiArea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/douyu_json_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/douyu_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/douyu_spider_by_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/multi_thread_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/re.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/selenium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formal_spider/tieba_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/baidu_fanyi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/requests_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/spider_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/tanslate_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/tieba_spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpServer/epoll_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/HttpServer/epoll_operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/def_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/def_iteration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/fibo_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/fibo_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/fibo_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/fibo_iterator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/gevent_download_pics.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/gevent_download_pics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coroutine/send_call_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutine/send_call_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/lazyGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/function/lazyGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/deep_shallowCopy.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/deep_shallowCopy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/class_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/class_run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/dead_lock.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/dead_lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/global_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/global_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/process_copy_folder.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/process_copy_folder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/process_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/process_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/process_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/process_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/sing_dance.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/sing_dance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleTask/threading_lock_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTask/threading_lock_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/auto_set_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/auto_set_cookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/china.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/req_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/req_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/request_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/request_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/unsplash.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,10 +98,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\26952\Desktop\Learning File\PythonLearning\formal_spider" />
       <recent name="C:\Users\26952\Desktop\Learning File\Python Shell\class" />
     </key>
   </component>
@@ -107,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.req_proxy">
+  <component name="RunManager" selected="Python.crawl_multicate_url">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python shell" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/formal_spider" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formal_spider/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crawl_lagou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawl_multicate_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python shell" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +149,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/formal_spider" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/crawl_lagou.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formal_spider/crawl_multicate_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douyu_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python shell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/formal_spider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formal_spider/douyu_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douyu_spider_by_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python shell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/formal_spider" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formal_spider/douyu_spider_by_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="req_cookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="process_pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python shell" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,56 +237,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MultipleTask" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/req_cookie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="req_proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python shell" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/req_proxy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="request_op" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python shell" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/request_op.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultipleTask/process_pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +253,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.draw" />
+      <item itemvalue="Python.process_pool" />
       <item itemvalue="Python.1" />
-      <item itemvalue="Python.request_op" />
-      <item itemvalue="Python.crawl_lagou" />
-      <item itemvalue="Python.req_proxy" />
-      <item itemvalue="Python.req_cookie" />
+      <item itemvalue="Python.douyu_spider" />
+      <item itemvalue="Python.douyu_spider_by_json" />
+      <item itemvalue="Python.crawl_multicate_url" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.req_proxy" />
-        <item itemvalue="Python.request_op" />
-        <item itemvalue="Python.req_cookie" />
-        <item itemvalue="Python.crawl_lagou" />
+        <item itemvalue="Python.crawl_multicate_url" />
+        <item itemvalue="Python.douyu_spider_by_json" />
+        <item itemvalue="Python.douyu_spider" />
         <item itemvalue="Python.1" />
+        <item itemvalue="Python.process_pool" />
       </list>
     </recent_temporary>
   </component>
@@ -317,6 +328,24 @@
       <workItem from="1580707145054" duration="23233000" />
       <workItem from="1580793033188" duration="11844000" />
       <workItem from="1580811651938" duration="1906000" />
+      <workItem from="1580867818899" duration="114000" />
+      <workItem from="1580911634686" duration="3420000" />
+      <workItem from="1580915728191" duration="3472000" />
+      <workItem from="1580962323454" duration="30000" />
+      <workItem from="1581050070887" duration="1862000" />
+      <workItem from="1581085304375" duration="214000" />
+      <workItem from="1581401461358" duration="5984000" />
+      <workItem from="1581411745062" duration="9461000" />
+      <workItem from="1581514055830" duration="10762000" />
+      <workItem from="1581571326365" duration="6763000" />
+      <workItem from="1581595471959" duration="9479000" />
+      <workItem from="1581658536595" duration="27440000" />
+      <workItem from="1581742157138" duration="17489000" />
+      <workItem from="1581833475134" duration="22432000" />
+      <workItem from="1581918903514" duration="17417000" />
+      <workItem from="1581945919447" duration="3392000" />
+      <workItem from="1582262778475" duration="1650000" />
+      <workItem from="1582287453550" duration="637000" />
     </task>
     <servers />
   </component>
@@ -359,86 +388,108 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Shell$udp_sample.coverage" NAME="udp_sample Coverage Results" MODIFIED="1578808445396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/Python_Shell$threading_lock.coverage" NAME="threading_lock Coverage Results" MODIFIED="1578913906497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$2.coverage" NAME="2 Coverage Results" MODIFIED="1579277080981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
     <SUITE FILE_PATH="coverage/PythonLearning$threading_http_server.coverage" NAME="threading_http_server Coverage Results" MODIFIED="1579354154065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
+    <SUITE FILE_PATH="coverage/PythonLearning$threading_lock_2.coverage" NAME="threading_lock_2 Coverage Results" MODIFIED="1581855909295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$11.coverage" NAME="11 Coverage Results" MODIFIED="1577628705651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/Python_Shell$5_21.coverage" NAME="5.21 Coverage Results" MODIFIED="1577375749546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
     <SUITE FILE_PATH="coverage/Python_Shell$multiple_udp_1.coverage" NAME="multiple_udp_1 Coverage Results" MODIFIED="1578916813489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$def_iteration.coverage" NAME="def_iteration Coverage Results" MODIFIED="1579016130599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/PythonLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1579276129565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
-    <SUITE FILE_PATH="coverage/Python_Shell$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1577628545518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/PythonLearning$match_html_label.coverage" NAME="match_html_label Coverage Results" MODIFIED="1579189758145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
+    <SUITE FILE_PATH="coverage/PythonLearning$requests_proxy.coverage" NAME="requests_proxy Coverage Results" MODIFIED="1581422508626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/Python_Shell$conception.coverage" NAME="conception Coverage Results" MODIFIED="1577610520492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
-    <SUITE FILE_PATH="coverage/PythonLearning$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1579359832838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/PythonLearning$gevent_download_pics.coverage" NAME="gevent_download_pics Coverage Results" MODIFIED="1580795327849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
+    <SUITE FILE_PATH="coverage/PythonLearning$sing_dance.coverage" NAME="sing_dance Coverage Results" MODIFIED="1581841622861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$files_download_client.coverage" NAME="files_download_client Coverage Results" MODIFIED="1578840289344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/PythonLearning$my_connection.coverage" NAME="my_connection Coverage Results" MODIFIED="1579759736282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
-    <SUITE FILE_PATH="coverage/Python_Shell$test.coverage" NAME="test Coverage Results" MODIFIED="1577459677078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
-    <SUITE FILE_PATH="coverage/PythonLearning$set_cookie.coverage" NAME="set_cookie Coverage Results" MODIFIED="1580795396366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
-    <SUITE FILE_PATH="coverage/Python_Shell$with_op.coverage" NAME="with_op Coverage Results" MODIFIED="1578644032831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Shell$default_value_scope.coverage" NAME="default_value_scope Coverage Results" MODIFIED="1577590484471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/PythonLearning$high_function.coverage" NAME="high_function Coverage Results" MODIFIED="1579355528382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/PythonLearning$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1580733183794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
     <SUITE FILE_PATH="coverage/Python_Shell$conception2.coverage" NAME="conception2 Coverage Results" MODIFIED="1577620878721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/PythonLearning$match_mail.coverage" NAME="match_mail Coverage Results" MODIFIED="1579188639175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
-    <SUITE FILE_PATH="coverage/PythonLearning$my_crawler.coverage" NAME="my_crawler Coverage Results" MODIFIED="1580720204966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
     <SUITE FILE_PATH="coverage/Python_Shell$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1578841732725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/Python_Shell$class_run.coverage" NAME="class_run Coverage Results" MODIFIED="1578892770821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/PythonLearning$random_tuple.coverage" NAME="random_tuple Coverage Results" MODIFIED="1580026408587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Shell$threading_lock_2.coverage" NAME="threading_lock_2 Coverage Results" MODIFIED="1578913912296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$baidu_fanyi.coverage" NAME="baidu_fanyi Coverage Results" MODIFIED="1581429180100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/PythonLearning$threading_lock_1.coverage" NAME="threading_lock_1 Coverage Results" MODIFIED="1578927569225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$fibo_iterator.coverage" NAME="fibo_iterator Coverage Results" MODIFIED="1580024975948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/Python_Shell$1.coverage" NAME="1 Coverage Results" MODIFIED="1578845309628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$multiple_udp_2.coverage" NAME="multiple_udp_2 Coverage Results" MODIFIED="1578916815878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/Python_Shell$send_socket.coverage" NAME="send_socket Coverage Results" MODIFIED="1578805795730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/PythonLearning$process_queue.coverage" NAME="process_queue Coverage Results" MODIFIED="1578931789811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/Python_Shell$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1577411063344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$process_queue.coverage" NAME="process_queue Coverage Results" MODIFIED="1581866603228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$process_thread_notblock_longconnection.coverage" NAME="process_thread_notblock_longconnection Coverage Results" MODIFIED="1579366572902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
     <SUITE FILE_PATH="coverage/PythonLearning$process_thread_notblock.coverage" NAME="process_thread_notblock Coverage Results" MODIFIED="1579362375998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
-    <SUITE FILE_PATH="coverage/PythonLearning$varify_vars.coverage" NAME="varify_vars Coverage Results" MODIFIED="1579188371027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
-    <SUITE FILE_PATH="coverage/PythonLearning$1.coverage" NAME="1 Coverage Results" MODIFIED="1580799077380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$1.coverage" NAME="1 Coverage Results" MODIFIED="1581921563201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$plot_temperature.coverage" NAME="plot_temperature Coverage Results" MODIFIED="1580916650540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_analysis/my_plot" />
     <SUITE FILE_PATH="coverage/Python_Shell$closure.coverage" NAME="closure Coverage Results" MODIFIED="1577461867642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$multiprocess_http_server.coverage" NAME="multiprocess_http_server Coverage Results" MODIFIED="1580018453175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mini_web_frame" />
-    <SUITE FILE_PATH="coverage/PythonLearning$gevent_multiprocess.coverage" NAME="gevent_multiprocess Coverage Results" MODIFIED="1579177531436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/PythonLearning$crawl_multi_url.coverage" NAME="crawl_multi_url Coverage Results" MODIFIED="1581597651405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
     <SUITE FILE_PATH="coverage/Python_Shell$my_property.coverage" NAME="my_property Coverage Results" MODIFIED="1578464623195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
-    <SUITE FILE_PATH="coverage/Python_Shell$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1578646249744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/sort" />
     <SUITE FILE_PATH="coverage/PythonLearning$fibo_generator.coverage" NAME="fibo_generator Coverage Results" MODIFIED="1580025064335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
-    <SUITE FILE_PATH="coverage/Python_Shell$recv_socket.coverage" NAME="recv_socket Coverage Results" MODIFIED="1578808463407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/PythonLearning$match_one_character.coverage" NAME="match_one_character Coverage Results" MODIFIED="1579182357585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
     <SUITE FILE_PATH="coverage/Python_Shell$multiInherite.coverage" NAME="multiInherite Coverage Results" MODIFIED="1578408885435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Shell$my_property1.coverage" NAME="my_property1 Coverage Results" MODIFIED="1578469084547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/PythonLearning$global_op.coverage" NAME="global_op Coverage Results" MODIFIED="1581836661111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$decorate.coverage" NAME="decorate Coverage Results" MODIFIED="1577621404657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/PythonLearning$my_creeper.coverage" NAME="my_creeper Coverage Results" MODIFIED="1580714706799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
     <SUITE FILE_PATH="coverage/PythonLearning$req_cookie.coverage" NAME="req_cookie Coverage Results" MODIFIED="1580804038108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/Python_Shell$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1578841729027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/Python_Shell$share_global.coverage" NAME="share_global Coverage Results" MODIFIED="1578913477620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1579357491901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/PythonLearning$lazyGenerator.coverage" NAME="lazyGenerator Coverage Results" MODIFIED="1580025533506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/PythonLearning$class_run.coverage" NAME="class_run Coverage Results" MODIFIED="1581843307032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$files_download_server.coverage" NAME="files_download_server Coverage Results" MODIFIED="1578840287079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
-    <SUITE FILE_PATH="coverage/PythonLearning$auto_set_cookie.coverage" NAME="auto_set_cookie Coverage Results" MODIFIED="1580797339139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$crawl_douban.coverage" NAME="crawl_douban Coverage Results" MODIFIED="1581572660727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
     <SUITE FILE_PATH="coverage/PythonLearning$recv_socket.coverage" NAME="recv_socket Coverage Results" MODIFIED="1579278707891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/Python_Shell$dead_lock.coverage" NAME="dead_lock Coverage Results" MODIFIED="1578914812747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/PythonLearning$process.coverage" NAME="process Coverage Results" MODIFIED="1578931381178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1579157334348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
+    <SUITE FILE_PATH="coverage/PythonLearning$tieba_spider.coverage" NAME="tieba_spider Coverage Results" MODIFIED="1581758316879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$dymamic_http_server.coverage" NAME="dymamic_http_server Coverage Results" MODIFIED="1580019686561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mini_web_frame" />
+    <SUITE FILE_PATH="coverage/PythonLearning$crawl_36kr.coverage" NAME="crawl_36kr Coverage Results" MODIFIED="1581576540311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/Python_Shell$class_static.coverage" NAME="class_static Coverage Results" MODIFIED="1577625484502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/Python_Shell$myfunction.coverage" NAME="myfunction Coverage Results" MODIFIED="1577426458999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Shell$sing_dance.coverage" NAME="sing_dance Coverage Results" MODIFIED="1578891027021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$gevent_http_server.coverage" NAME="gevent_http_server Coverage Results" MODIFIED="1579354899032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
+    <SUITE FILE_PATH="coverage/PythonLearning$tanslate_tool.coverage" NAME="tanslate_tool Coverage Results" MODIFIED="1581420745249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/Python_Shell$threading_lock.coverage" NAME="threading_lock Coverage Results" MODIFIED="1578913906497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/Python_Shell$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1577628545518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/PythonLearning$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1579359832838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
+    <SUITE FILE_PATH="coverage/PythonLearning$gevent_download_pics.coverage" NAME="gevent_download_pics Coverage Results" MODIFIED="1580795327849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
+    <SUITE FILE_PATH="coverage/PythonLearning$douyu_spider_by_json.coverage" NAME="douyu_spider_by_json Coverage Results" MODIFIED="1581940945743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$my_connection.coverage" NAME="my_connection Coverage Results" MODIFIED="1579759736282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/Python_Shell$test.coverage" NAME="test Coverage Results" MODIFIED="1577459677078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../.." />
+    <SUITE FILE_PATH="coverage/PythonLearning$set_cookie.coverage" NAME="set_cookie Coverage Results" MODIFIED="1580795396366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
+    <SUITE FILE_PATH="coverage/Python_Shell$with_op.coverage" NAME="with_op Coverage Results" MODIFIED="1578644032831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/PythonLearning$my_crawler.coverage" NAME="my_crawler Coverage Results" MODIFIED="1580720204966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
+    <SUITE FILE_PATH="coverage/PythonLearning$thread_share_problem.coverage" NAME="thread_share_problem Coverage Results" MODIFIED="1581855012072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$req_session.coverage" NAME="req_session Coverage Results" MODIFIED="1581423783366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$random_tuple.coverage" NAME="random_tuple Coverage Results" MODIFIED="1580026408587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Shell$threading_lock_2.coverage" NAME="threading_lock_2 Coverage Results" MODIFIED="1578913912296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$process_copy_folder.coverage" NAME="process_copy_folder Coverage Results" MODIFIED="1581780778348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/Python_Shell$send_socket.coverage" NAME="send_socket Coverage Results" MODIFIED="1578805795730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
+    <SUITE FILE_PATH="coverage/Python_Shell$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1577411063344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearning$varify_vars.coverage" NAME="varify_vars Coverage Results" MODIFIED="1579188371027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
+    <SUITE FILE_PATH="coverage/PythonLearning$deep_shallowCopy.coverage" NAME="deep_shallowCopy Coverage Results" MODIFIED="1581051782893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List" />
+    <SUITE FILE_PATH="coverage/PythonLearning$gevent_multiprocess.coverage" NAME="gevent_multiprocess Coverage Results" MODIFIED="1579177531436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/Python_Shell$insert_sort.coverage" NAME="insert_sort Coverage Results" MODIFIED="1578646249744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/sort" />
+    <SUITE FILE_PATH="coverage/Python_Shell$recv_socket.coverage" NAME="recv_socket Coverage Results" MODIFIED="1578808463407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
+    <SUITE FILE_PATH="coverage/PythonLearning$douyu_spider.coverage" NAME="douyu_spider Coverage Results" MODIFIED="1581938502821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$thread_share_src.coverage" NAME="thread_share_src Coverage Results" MODIFIED="1581845106854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$spider_op.coverage" NAME="spider_op Coverage Results" MODIFIED="1581527187333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$dead_lock.coverage" NAME="dead_lock Coverage Results" MODIFIED="1581856829265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
+    <SUITE FILE_PATH="coverage/PythonLearning$lazyGenerator.coverage" NAME="lazyGenerator Coverage Results" MODIFIED="1580025533506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/PythonLearning$crawl_multicate_url.coverage" NAME="crawl_multicate_url Coverage Results" MODIFIED="1581947241935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/formal_spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$auto_set_cookie.coverage" NAME="auto_set_cookie Coverage Results" MODIFIED="1580797339139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$process.coverage" NAME="process Coverage Results" MODIFIED="1581865080895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/Python_Shell$my_property2.coverage" NAME="my_property2 Coverage Results" MODIFIED="1578642077890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Shell$lazyGenerator.coverage" NAME="lazyGenerator Coverage Results" MODIFIED="1577452651327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLearning$send_call_generator.coverage" NAME="send_call_generator Coverage Results" MODIFIED="1580021853489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/PythonLearning$match_more_characters.coverage" NAME="match_more_characters Coverage Results" MODIFIED="1579186308235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regularExpression" />
     <SUITE FILE_PATH="coverage/PythonLearning$def_iteration_oneclass.coverage" NAME="def_iteration_oneclass Coverage Results" MODIFIED="1580025016398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
-    <SUITE FILE_PATH="coverage/PythonLearning$dymamic_http_server.coverage" NAME="dymamic_http_server Coverage Results" MODIFIED="1580019686561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mini_web_frame" />
     <SUITE FILE_PATH="coverage/Python_Shell$files_download.coverage" NAME="files_download Coverage Results" MODIFIED="1578834334558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netProgram" />
     <SUITE FILE_PATH="coverage/PythonLearning$coroutine_multiprocess.coverage" NAME="coroutine_multiprocess Coverage Results" MODIFIED="1579162763882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine" />
     <SUITE FILE_PATH="coverage/PythonLearning$crawl_lagou.coverage" NAME="crawl_lagou Coverage Results" MODIFIED="1580801794840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/PythonLearning$set_proxy.coverage" NAME="set_proxy Coverage Results" MODIFIED="1580795906069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
-    <SUITE FILE_PATH="coverage/Python_Shell$class_static.coverage" NAME="class_static Coverage Results" MODIFIED="1577625484502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Shell$multiInherite_exam.coverage" NAME="multiInherite_exam Coverage Results" MODIFIED="1578462368737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/Python_Shell$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1578655843003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/sort" />
-    <SUITE FILE_PATH="coverage/Python_Shell$myfunction.coverage" NAME="myfunction Coverage Results" MODIFIED="1577426458999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonLearning$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1578977069027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/PythonLearning$request_op.coverage" NAME="request_op Coverage Results" MODIFIED="1580804619540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$request_op.coverage" NAME="request_op Coverage Results" MODIFIED="1581410432961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PythonLearning$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1581867456905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
     <SUITE FILE_PATH="coverage/PythonLearning$req_proxy.coverage" NAME="req_proxy Coverage Results" MODIFIED="1580812637231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
-    <SUITE FILE_PATH="coverage/Python_Shell$sing_dance.coverage" NAME="sing_dance Coverage Results" MODIFIED="1578891027021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MultipleTask" />
-    <SUITE FILE_PATH="coverage/PythonLearning$gevent_http_server.coverage" NAME="gevent_http_server Coverage Results" MODIFIED="1579354899032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HttpServer" />
   </component>
 </project>

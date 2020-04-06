@@ -13,9 +13,10 @@ def get_opener():
     return opener
 
 
-def login(opener, login_url ):
+def login(opener, login_url):
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/79.0.3945.130 Safari/537.36',
     }
     data = {
         'u': '269524963',
@@ -29,7 +30,8 @@ def login(opener, login_url ):
 
 def visit_profile(opener, profile_url):
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/79.0.3945.130 Safari/537.36',
     }
     req = request.Request(profile_url, headers=headers)
     res = opener.open(req)
